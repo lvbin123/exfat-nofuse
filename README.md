@@ -94,5 +94,10 @@ Now you have a proper dkms module that will work for a long time... hopefully.
 
 
 
+Contributing / 贡献代码
+=================================
+
+Want to share files or patches from your local directory? See [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to submit files, patches, or bug reports.
+
 Free Software for the Free Minds!
 =================================
